@@ -1,2 +1,2 @@
 # Minesweeper
-Minsweeper game using Java as a final project for Programming II course (UIB).
+Minesweeper game using Java as a final project for Programming II course (UIB).
